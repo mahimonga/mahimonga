@@ -2,9 +2,12 @@
          alt="Waving hand animated gif"
          height="35"
          width="35" />, I am Mahi Monga</h1>
-<h5 align="center">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+<h5 align="left">
 I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies from UIET MDU Rohtak. I am a Data Science enthusiast, WE @Google, WIT Lead at DSC UIET MDU, #IamRemarkable Facilitator and a Poet.
 </h5>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahimonga&label=Profile%20views&color=0e75b6&style=flat" alt="Mahi Monga" /> </p>
 <p>
  <h4>Languages and Tools:-</h4>
@@ -42,8 +45,7 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies fr
 </br>
 <a align= "center" href="https://github.com/mahimonga">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimonga&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
-</p>
+
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=mahimonga&count_private=true&theme=radical&show_icons=true" />
 
 <!--

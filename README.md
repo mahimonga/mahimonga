@@ -1,8 +1,9 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<img align="right" height="200" width="250" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="35"
          width="35" />, I am Mahi Monga</h1>
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+
 </p>
 <h5 align="left">
 I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies from UIET MDU Rohtak. I am a Data Science enthusiast, WE @Google, WIT Lead at DSC UIET MDU, #IamRemarkable Facilitator and a Poet.

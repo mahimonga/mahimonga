@@ -5,7 +5,19 @@
          width="35" /></h1>
 <h1> I am Mahi Monga </h1>
 <h5 align="left">
-I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies from UIET MDU Rohtak. I am a Data Science enthusiast, WE @Google, WIT Lead at DSC UIET MDU, #IamRemarkable Facilitator and a Poet.
+I am an Associate Product Manager at @GeeksforGeeks who likes to code & design as a hobby. I graduated with a bachelor’s in Computer science studies from UIET MDU Rohtak.
+         
+Some milestones have achieved which I am proud of:
+- Top 7 Rank in Hack4she Hackathon
+- 1st Rank in Hack4Haryana Hackathon
+- WE @Google,
+- GDSC Lead and WIT Founder & Lead at DSC UIET MDU
+- #IamRemarkable Facilitator
+- Honoured as Guest of Honour by the University's Vice Chancellor
+- Many More... ( Intrigued?  refer here: https://www.linkedin.com/in/mahimonga/)
+
+
+
 </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahimonga&label=Profile%20views&color=0e75b6&style=flat" alt="Mahi Monga" /> </p>

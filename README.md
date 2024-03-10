@@ -3,7 +3,7 @@
 <h5 align="left">
 I am an Associate Product Manager at @GeeksforGeeks who likes to code & design as a hobby. I graduated with a bachelor’s in Computer science studies from UIET MDU Rohtak.
          
-Some milestones have achieved which I am proud of:
+Some milestones which I am proud of:
 - Top 7 Rank in Hack4she Hackathon
 - 1st Rank in Hack4Haryana Hackathon
 - WE @Google,

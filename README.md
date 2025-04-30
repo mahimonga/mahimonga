@@ -1,7 +1,7 @@
 <img align="right" height="250" width="200" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 <h1 align="left">Hey<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="35" width="35" /></h1> <h1> I am Mahi Monga </h1>
 <h5 align="left">
-I am an Associate Product Manager at @GeeksforGeeks who likes to code & design as a hobby. I graduated with a bachelor’s in Computer science studies from UIET MDU Rohtak.
+I am an Associate Product Manager at @Cashify who likes to code & design as a hobby. I graduated with a bachelor’s in Computer science studies from UIET MDU Rohtak.
          
 Some milestones which I am proud of:
 - Top 7 Rank in Hack4she Hackathon
